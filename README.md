@@ -1,6 +1,6 @@
 # Interview Assessment
 
-Welcome to Progyny's Engineering technical assessment challenge! Please read the instructions below, and once your ready to begin fork the repo to your personal GitHub account to complete the assignment.
+A technical assessment challenge! Please read the instructions below, and once your ready to begin fork the repo to your personal GitHub account to complete the assignment.
 
 ## Instructions
 
